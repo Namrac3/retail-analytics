@@ -36,9 +36,12 @@ This project analyzes retail product sales data to:
 
 
 ## 📊 Example Visualizations
-🔹 Sales Trend Over Time
+🔹Unique VS Repeating Customers
+<img width="1077" height="745" alt="image" src="https://github.com/user-attachments/assets/e67a05f0-38ce-4cbb-aaa9-2d261853d964" />
 
-🔹 Top 10 Best-Selling Products
+
+🔹 Item Trends Over Time
+<img width="1026" height="738" alt="image" src="https://github.com/user-attachments/assets/4d1b0519-8dc1-4b6f-96ac-68540488cf77" />
 
 
 
