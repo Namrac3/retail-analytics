@@ -1,4 +1,4 @@
-🛍️ Retail Product Sales Analytics
+# 🛍️ Retail Product Sales Analytics
 
 A data-driven analytics project focused on retail product sales trends, leveraging Python for exploratory data analysis (EDA), visualization, and business insights.
 
